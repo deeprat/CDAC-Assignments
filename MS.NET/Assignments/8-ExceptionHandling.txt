@@ -1,0 +1,6 @@
+In the Inheritance assignment throw a custom exception class if the property is not valid.
+example - In Basic Property throw an InvalidBasicException if the value is not valid.
+Do this for all the properties.
+
+Write appropriate try catch to handle the exceptions.
+
